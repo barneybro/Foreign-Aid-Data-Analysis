@@ -20,8 +20,7 @@ The project includes 4 related tables:
 
 - SQL (MySQL / SQLite compatible)
 - Excel (for mock data generation)
-- [dbdiagram.io (for schema)](https://dbdiagram.io/d)
-- GitHub (version control & portfolio)
+- dbdiagram.io (for schema)
 - Power BI *(optional for dashboards)*
 
 ## 📁 Folder Structure

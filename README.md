@@ -1,6 +1,6 @@
 # Foreign Aid Data Analysis Project 🇺🇳
 
-This project simulates a foreign aid data tracking and risk analysis system, designed in SQL. It mimics the type of digital infrastructure and intelligence analysis used by agencies like the CIA for organizing and auditing international programs.
+This project simulates a foreign aid data tracking and risk analysis system, designed in SQL. It mimics the type of digital infrastructure and intelligence analysis used by agencies for organizing and auditing international programs.
 
 ## 📊 Project Objective
 

@@ -14,7 +14,7 @@ The project includes 4 related tables:
 - `Agency_Staff`: Assigned diplomatic/technical staff
 - `Audit_Flags`: Risk indicators and audit concerns
 
-![Schema Diagram](diagrams/schema.png)
+![Schema Diagram](diagrams/Foriegn Aid Data Analyst Diagram.png)
 
 ## 🛠 Tools & Technologies
 

@@ -23,5 +23,11 @@ The project includes 4 related tables:
 - dbdiagram.io (for schema)
 - Power BI *(optional for dashboards)*
 
+## Insights and Takeaways
+- How to structure normalized data for real-world monitoring systems
+- Writing clean, optimized SQL for analysis and reporting
+- Creating views and multi-table joins for scalable insights
+- Showing realistic use cases for government or intelligence systems
+
 ## 📁 Folder Structure
 

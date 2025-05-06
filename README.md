@@ -29,5 +29,3 @@ The project includes 4 related tables:
 - Creating views and multi-table joins for scalable insights
 - Showing realistic use cases for government or intelligence systems
 
-## 📁 Folder Structure
-

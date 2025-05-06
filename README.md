@@ -21,7 +21,12 @@ The project includes 4 related tables:
 - SQL (MySQL / SQLite compatible)
 - Excel (for mock data generation)
 - dbdiagram.io (for schema)
-- Power BI *(optional for dashboards)*
+- Power BI
+
+## Power BI Dashboard
+![Dashboard Overview](screenshots/dashboard.png)
+
+
 
 ## Insights and Takeaways
 - Structure normalized data for real-world monitoring systems

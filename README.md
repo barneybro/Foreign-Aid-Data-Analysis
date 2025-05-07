@@ -14,15 +14,23 @@ The project includes 4 related tables:
 - `Agency_Staff`: Assigned diplomatic/technical staff
 - `Audit_Flags`: Risk indicators and audit concerns
 
-![Schema Diagram](diagrams/Foriegn Aid Data Analyst Diagram.png)
+![Schema Diagram](diagrams/ForiegnAidDataAnalystDiagram.png)
 
 ## 🛠 Tools & Technologies
 
 - SQL (MySQL / SQLite compatible)
 - Excel (for mock data generation)
-- draw.io / dbdiagram.io (for schema)
-- GitHub (version control & portfolio)
-- Power BI *(optional for dashboards)*
+- dbdiagram.io (for schema)
+- Power BI
 
-## 📁 Folder Structure
+## Power BI Dashboard
+![Dashboard Overview](screenshots/dashboard.png)
+
+
+
+## Insights and Takeaways
+- Structure normalized data for real-world monitoring systems
+- Writing clean, optimized SQL for analysis and reporting
+- Creating views and multi-table joins for scalable insights
+- Showing realistic use cases for government or intelligence systems
 

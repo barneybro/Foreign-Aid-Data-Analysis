@@ -24,7 +24,7 @@ The project includes 4 related tables:
 - Power BI
 
 ## Power BI Dashboard
-![Dashboard Overview](screenshots/powerBI.png)
+![Dashboard Overview](diagrams/powerBI.png)
 
 
 
